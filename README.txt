@@ -1,0 +1,2 @@
+For some reason the program crashes on using webcam. Yet it works if the path is changed from paper.jpg to ticket.jpg (a picture taken from my phone) or most other pictures, it works fine. As I took some time before merging the different functions I used, I did not have time to correct it yet. It seems the only issue is image size.
+Upon running the code, you will see a window, press escape to register the image. It will be named "paper.jpg" and put in the images folder.

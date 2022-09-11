@@ -1,0 +1,25 @@
+﻿  ScannerApp.cpp
+C:\Users\landr\source\repos\Scanner\ScannerApp.cpp(37,12): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\landr\source\repos\Scanner\ScannerApp.cpp(42,20): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\landr\source\repos\Scanner\ScannerApp.cpp(103,49): warning C4244: 'argument' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\landr\source\repos\Scanner\ScannerApp.cpp(103,46): warning C4244: 'argument' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\landr\source\repos\Scanner\ScannerApp.cpp(108,13): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\landr\source\repos\Scanner\ScannerApp.cpp(119,50): warning C4244: 'argument' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\landr\source\repos\Scanner\ScannerApp.cpp(119,31): warning C4244: 'argument' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=int
+          ]
+  Scanner.vcxproj -> C:\Users\landr\source\repos\Scanner\x64\Debug\Scanner.exe
